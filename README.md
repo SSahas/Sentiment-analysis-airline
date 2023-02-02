@@ -2,8 +2,13 @@
 
 Using object oriented programming for training the model.different scikit models are trained with just one command.
 
+## pipeline 
 
 
+
+
+
+![pipeline](https://user-images.githubusercontent.com/82393353/216391530-8b3991f5-897c-4893-9948-870eaf5d4d30.jpg)
 
 
 
