@@ -1,5 +1,12 @@
 # Sentiment_analysis_airline
 
+Using object oriented programming for training the model.different scikit models are trained with just one command.
+
+
+
+
+
+
 - > This repository contains sentiment classification model , which takes text as input and outputs the whether the statement is positive or negative comment.
 
 - > The app.py  is main file of webapp deployed on huggingface, uses streamlit framework as ui.
