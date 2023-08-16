@@ -35,7 +35,7 @@ model = joblib.load("randomforestmodel.pkl")
 
 @app.get("/")
 def read_root():
-    return {"Hello, this is the sentiment analysis classifier given as a assigment by Truefoundry"}
+    return {"Hello, this is the sentiment analysis classifier"}
 
 
 @app.get("/Prediction")
