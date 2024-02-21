@@ -1,6 +1,6 @@
 # Sentiment_analysis_airline
 
-Using object oriented programming for training the model.different scikit models are trained with just one command.
+Using object oriented programming for training the model. Different scikit models are trained with  one command.
 
 ## pipeline 
 
